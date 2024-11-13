@@ -8,6 +8,6 @@ int main() {
             x=arr[i];
         }
     }
-    printf("%d",x);
+    printf("greatest number in the array%d",x);
     return 0;
 }
